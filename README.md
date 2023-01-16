@@ -1,2 +1,3 @@
-# analysis_of_spectral_images
-Analysis of spectral images taken of white powders, leaves and household items
+# Analysis of spectral images taken of white powders, leaves and household items
+
+For this project, we took spectral images of different objects using different spectral cameras like the Specim IQ. In the analysis, we first segmented different green-coloured household items using Python. Then, we analysed different white powders (different types of sugars, salts, flours, baking powders etc.). By plotting all spectra, we determined the optimal bands for differentiating them from each other. The same segmentation procedure was applied to differentiate plastic leaves from real ones. We performed all these segmentations on images made by multiple types of spectral cameras. Advanced techniques like white and dark correction were applied, making the results less noisy and error-prone.
